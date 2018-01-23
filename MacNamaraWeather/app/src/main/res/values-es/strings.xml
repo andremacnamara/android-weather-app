@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MacNamara Tiempo</string>
+    <string name="splashTag">MacNamara Tiempor</string>
+    <string name="splashSubTag">Tu pronóstico exacto</string>
+    <string name="splashdesc">El icono de pantalla de bienvenida</string>
+
+    <string name="tempPlaceholder">--</string>
+    <string name="timePlaceholder">El clima en este momento</string>
+    <string name="locationPlaceholder">Dublín, Irlanda</string>
+    <string name="precipPlaceholder">Lluvia/Nieve</string>
+    <string name="precipValue">--</string>
+    <string name="humidityPlaceholder">Humedad</string>
+    <string name="humidityValue">--</string>
+    <string name="summary">Obteniendo datos meteorológicos ..</string>
+    <string name="icon_image_view">Vista de imagen de icono</string>
+    <string name="degree_image_view">Vista de la imagen del grado</string>
+    <string name="todays">El tiempo de hoy</string>
+
+    <string name="todayButtonLabel">Obtén las semanas del clima</string>
+
+    <string name="errorTitle">Lo siento</string>
+    <string name="error_Message">Inténtalo de nuevo</string>
+    <string name="getting_current_weather_data">Obteniendo datos actuales del clima ..</string>
+    <string name="no_daily_forecast_data" />
+    <string name="todo" />
+    <string name="dublin_ireland">Dublín, Irlanda</string>
+    <string name="this_week_s_weather">El tiempo de esta semana</string>
+</resources>
+

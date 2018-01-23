@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MacNamara Weather</string>
+    <string name="splashTag">MacNamara Weather</string>
+    <string name="splashSubTag">Your accurate forecast</string>
+    <string name="splashdesc">The Splash Screen Icon</string>
+
+    <string name="tempPlaceholder">--</string>
+    <string name="timePlaceholder">The weather at this time</string>
+    <string name="locationPlaceholder">Dublin, Ireland</string>
+    <string name="precipPlaceholder">Rain/Snow</string>
+    <string name="precipValue">--</string>
+    <string name="humidityPlaceholder">Humidity</string>
+    <string name="humidityValue">--</string>
+    <string name="summary">Fetching weather data..</string>
+    <string name="icon_image_view">Icon Image View</string>
+    <string name="degree_image_view">Degree Image View</string>
+    <string name="todays">Todays Weather</string>
+
+    <string name="todayButtonLabel">Get the weeks weather</string>
+
+    <string name="errorTitle">Sorry</string>
+    <string name="error_Message">Pleae try again</string>
+    <string name="getting_current_weather_data">Getting current weather data..</string>
+    <string name="no_daily_forecast_data" />
+    <string name="todo" />
+    <string name="dublin_ireland">Dublin, Ireland</string>
+    <string name="this_week_s_weather">This Week\'s Weather</string>
+</resources>
+
